@@ -11,9 +11,9 @@ const books = [
     },
 
     {
-        author: 'Михайло Коцюбинський',
-        title: 'Тіни забутих предків',
-        img: 'https://book-ye.com.ua/upload/resize_cache/iblock/7e5/520_860_1/83bcc485_c7d5_11ed_8182_00505684ea69_187adeff_c7d7_11ed_8182_00505684ea69.jpg',
+        author: 'Леся Українка',
+        title: 'Мавка. Лісова пісня',
+        img: 'https://book-ye.com.ua/upload/resize_cache/iblock/684/520_860_1/fd8f9b78_d214_11ed_8182_00505684ea69_63af60eb_d216_11ed_8182_00505684ea69.jpg',
         id: 2,
     },
     {
